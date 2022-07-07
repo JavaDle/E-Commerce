@@ -23,7 +23,7 @@ class Product extends Model
     ];
 
     protected $casts = [
-        'extra_options' => 'json'
+        'extra_options' => 'array'
     ];
 
     public function category(): HasMany
