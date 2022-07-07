@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huseyn</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate back end developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadle&label=Profile%20views&color=0e75b6&style=flat" alt="javadle" /> </p>
 
